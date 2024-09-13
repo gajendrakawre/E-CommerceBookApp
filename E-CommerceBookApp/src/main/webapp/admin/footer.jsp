@@ -1,7 +1,7 @@
 <footer class=" footer bg-custom text-light py-4 mt-4">
     <div class="container text-center">
         <p class="mb-0">&copy; 2024 eBook-App. All rights reserved.</p>
-        <p class="small mt-2">Designed by Mopur Meghavarshini And Gajendra Kawre</p>
+       
     </div>
 </footer>
 

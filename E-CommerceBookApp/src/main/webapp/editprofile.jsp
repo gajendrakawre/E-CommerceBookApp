@@ -29,7 +29,7 @@
             </div>
             <div class="mb-3">
                 <label for="phone" class="form-label">Phone<span class="sp">*</span></label>
-                <input type="number" class="form-control" id="phone" name="phone" value="${userobj.phno}" required>
+                <input type="number" class="form-control" id="phone" name="phone" value="" required>
             </div>
             <div class="mb-3">
                 <label for="password" class="form-label">Password<span class="sp">*</span></label>

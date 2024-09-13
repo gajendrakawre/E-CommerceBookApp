@@ -110,7 +110,7 @@
                             <div class="row mb-3">
                                 <div class="col-md-6">
                                     <label for="mobile" class="form-label">Mobile Number</label>
-                                    <input type="tel" class="form-control" id="mobile" name="mobile" value="<%= u.getPhno() %>" readonly required>
+                                    <input type="tel" class="form-control" id="mobile" name="mobile" value="" readonly required>
                                 </div>
                                 <div class="col-md-6">
                                     <label for="address" class="form-label">Address</label>
